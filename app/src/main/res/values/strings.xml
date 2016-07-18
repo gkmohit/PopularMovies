@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="movie_db_api_key">b94d3c1a76fe61936b8b49622936df3a</string>
+    <string name="movie_db_popular_url">http://api.themoviedb.org/3/movie/popular?</string>
+    <string name="movie_db_top_rated_url">http://api.themoviedb.org/3/movie/top_rated?</string>
+    <string name="setting_refresh">Refresh</string>
+    <string name="pref_label_sort_by_top_rated" translatable="true">Top Rated</string>
+    <string name="pref_label_sort_by_popular" translatable="true">Popular</string>
+    <string name="pref_sort_by_top_rated" translatable="false">Top Rated</string>
+    <string name="pref_sort_by_popular" translatable="false">Popular</string>
+    <string name="pref_sort_label">Sort Movies By</string>
+</resources>
